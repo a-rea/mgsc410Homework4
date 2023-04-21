@@ -18,8 +18,8 @@ Write up your analysis with a clear recommendation on which markets to choose fo
 
 
 Useful Links
-# https://www.census.gov/library/publications/2020/demo/p60-270.html for median income benchmark
-# chat.openai.com for feature engineering questions
+- https://www.census.gov/library/publications/2020/demo/p60-270.html for median income benchmark
+- chat.openai.com for feature engineering questions
 
 
 
