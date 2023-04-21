@@ -19,6 +19,7 @@ Write up your analysis with a clear recommendation on which markets to choose fo
 
 Useful Links
 - https://www.census.gov/library/publications/2020/demo/p60-270.html for median income benchmark
+- https://www.kaggle.com/code/shuvojitdas/muzammil-9th-update was really helpful for eda purposes regarding the competitor data
 - chat.openai.com for feature engineering questions
 
 
